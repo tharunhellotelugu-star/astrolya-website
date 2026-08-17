@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Astrolya — Discover &amp; Align</title>
+<meta name="description" content="Live Vedic astrologers, real birth-chart readings, palm &amp; face reading, and a spiritual marketplace — in one app, in six languages.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='46' fill='%230A0812' stroke='%23C9A63C' stroke-width='4'/%3E%3Ccircle cx='50' cy='50' r='6' fill='%23C9A63C'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --void: #FAF6EC;
+    --dusk: #FFFFFF;
+    --dusk-2: #F1EADA;
+    --gold: #A9822A;
+    --gold-bright: #8C6A1F;
+    --ember: #9C4530;
+    --ink: #201A2E;
+    --ink-dim: #6B6478;
+    --line: rgba(32,26,46,0.12);
+    --shadow: 0 1px 2px rgba(32,26,46,0.05), 0 12px 32px rgba(32,26,46,0.08);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --void: #0A0812;
+      --dusk: #171225;
+      --dusk-2: #1E1830;
+      --gold: #C9A63C;
+      --gold-bright: #E8C766;
+      --ember: #C46A4C;
+      --ink: #F3EDE0;
+      --ink-dim: #9C93A8;
+      --line: rgba(243,237,224,0.12);
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 20px 48px rgba(0,0,0,0.4);
+    }
+  }
+  :root[data-theme="dark"] {
+    --void: #0A0812;
+    --dusk: #171225;
+    --dusk-2: #1E1830;
+    --gold: #C9A63C;
+    --gold-bright: #E8C766;
+    --ember: #C46A4C;
+    --ink: #F3EDE0;
+    --ink-dim: #9C93A8;
+    --line: rgba(243,237,224,0.12);
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 20px 48px rgba(0,0,0,0.4);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--void);
+    color: var(--ink);
+    font-family: 'Manrope', -apple-system, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  h1, h2, h3 { font-family: 'Fraunces', Georgia, serif; text-wrap: balance; font-weight: 500; }
+  .eyebrow {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+  a { color: inherit; text-decoration: none; }
+  img, svg { max-width: 100%; display: block; }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
+  }
+
+  /* Nav */
+  header.nav {
+    position: sticky; top: 0; z-index: 50;
+    background: color-mix(in srgb, var(--void) 88%, transparent);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-row {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 18px 0;
+  }
+  .wordmark { display: flex; align-items: center; gap: 10px; font-family: 'Fraunces', serif; font-size: 1.3rem; font-weight: 600; }
+  .wordmark .glyph {
+    width: 30px; height: 30px; border-radius: 50%;
+    border: 1.5px solid var(--gold);
+    display: flex; align-items: center; justify-content: center;
+    position: relative;
+  }
+  .wordmark .glyph::after { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--gold); }
+  nav.links { display: flex; gap: 32px; align-items: center; }
+  nav.links a { font-size: 0.88rem; font-weight: 600; color: var(--ink-dim); transition: color 0.2s; }
+  nav.links a:hover, nav.links a:focus-visible { color: var(--gold); }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 11px 22px; border-radius: 999px;
+    font-size: 0.86rem; font-weight: 700;
+    background: var(--gold); color: var(--void);
+    transition: transform 0.2s, background 0.2s;
+  }
+  .btn:hover, .btn:focus-visible { background: var(--gold-bright); transform: translateY(-1px); }
+  .btn:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+
+  @media (max-width: 720px) { nav.links { display: none; } }
+
+  /* Hero */
+  .hero {
+    position: relative;
+    padding: 96px 0 120px;
+    overflow: hidden;
+  }
+  .hero-grid {
+    display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 48px; align-items: center;
+  }
+  @media (max-width: 880px) { .hero-grid { grid-template-columns: 1fr; } }
+  .hero h1 {
+    font-size: clamp(2.6rem, 5.5vw, 4.2rem);
+    line-height: 1.04;
+    margin: 18px 0 22px;
+    letter-spacing: -0.01em;
+  }
+  .hero h1 em { font-style: normal; color: var(--gold); }
+  .hero p.lede {
+    font-size: 1.1rem; color: var(--ink-dim); max-width: 46ch; margin-bottom: 34px;
+  }
+  .cta-row { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; }
+  .btn-ghost {
+    padding: 11px 22px; border-radius: 999px; border: 1px solid var(--line);
+    font-size: 0.86rem; font-weight: 700; color: var(--ink);
+    transition: border-color 0.2s;
+  }
+  .btn-ghost:hover { border-color: var(--gold); }
+
+  /* Chart wheel */
+  .wheel-wrap { position: relative; display: flex; align-items: center; justify-content: center; }
+  .wheel {
+    width: min(420px, 84vw); aspect-ratio: 1;
+  }
+  .wheel-ring {
+    transform-box: fill-box;
+    transform-origin: center;
+    animation: spin 140s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .wheel-static-label {
+    position: absolute; font-family: 'Fraunces', serif; font-size: 0.75rem;
+    letter-spacing: 0.08em; color: var(--ink-dim); text-align: center;
+  }
+
+  /* Section shell */
+  section { padding: 96px 0; border-top: 1px solid var(--line); scroll-margin-top: 90px; }
+  .section-head { max-width: 56ch; margin-bottom: 52px; }
+  .section-head h2 { font-size: clamp(1.8rem, 3.4vw, 2.4rem); margin-top: 14px; }
+  .section-head p { color: var(--ink-dim); margin-top: 14px; font-size: 1.02rem; }
+
+  /* Feature cards */
+  .features { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 20px; overflow: hidden; }
+  @media (max-width: 880px) { .features { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 560px) { .features { grid-template-columns: 1fr; } }
+  .feature {
+    background: var(--dusk); padding: 32px 28px; min-height: 220px;
+    display: flex; flex-direction: column; gap: 12px;
+  }
+  .feature .mark { font-family: 'Fraunces', serif; font-size: 1.6rem; color: var(--gold); }
+  .feature h3 { font-size: 1.08rem; font-weight: 600; }
+  .feature p { color: var(--ink-dim); font-size: 0.92rem; }
+
+  /* Trust */
+  .trust-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; }
+  @media (max-width: 780px) { .trust-grid { grid-template-columns: 1fr; gap: 32px; } }
+  .trust-item { border-left: 2px solid var(--gold); padding-left: 20px; }
+  .trust-item h3 { font-size: 1.02rem; font-weight: 700; margin-bottom: 8px; font-family: 'Manrope', sans-serif; }
+  .trust-item p { color: var(--ink-dim); font-size: 0.92rem; }
+
+  /* Languages */
+  .lang-row { display: flex; flex-wrap: wrap; gap: 12px; }
+  .lang-chip {
+    padding: 10px 18px; border-radius: 999px; border: 1px solid var(--line);
+    font-size: 0.88rem; font-weight: 600;
+    display: flex; align-items: baseline; gap: 8px;
+  }
+  .lang-chip .native { color: var(--gold); font-family: 'Fraunces', serif; }
+
+  /* Final CTA */
+  .final-cta { text-align: center; padding: 120px 0; }
+  .final-cta h2 { font-size: clamp(2rem, 4.5vw, 3rem); margin-bottom: 20px; }
+  .final-cta p { color: var(--ink-dim); max-width: 46ch; margin: 0 auto 34px; }
+  .final-cta .cta-row { justify-content: center; }
+
+  /* Footer */
+  footer { border-top: 1px solid var(--line); padding: 48px 0 60px; }
+  .foot-row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 24px; align-items: center; }
+  .foot-links { display: flex; gap: 28px; flex-wrap: wrap; }
+  .foot-links a { font-size: 0.86rem; color: var(--ink-dim); font-weight: 600; }
+  .foot-links a:hover { color: var(--gold); }
+  .foot-copy { font-size: 0.82rem; color: var(--ink-dim); }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-row">
+    <a class="wordmark" href="#top"><span class="glyph"></span>Astrolya</a>
+    <nav class="links">
+      <a href="#chart">Features</a>
+      <a href="#trust">Trust &amp; Privacy</a>
+      <a href="#languages">Languages</a>
+    </nav>
+    <a class="btn" href="#download">Get the App</a>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero" style="border-top:none;">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Vedic Astrology, Personalized</p>
+        <h1>Discover &amp; <em>Align.</em></h1>
+        <p class="lede">Astrolya reads your real birth chart — not a generic horoscope — through live astrologers, AI-personalized readings, and traditional remedies, in the language you actually speak at home.</p>
+        <div class="cta-row">
+          <a class="btn" href="#download">Get the App</a>
+          <a class="btn-ghost" href="#chart">See what's inside</a>
+        </div>
+      </div>
+      <div class="wheel-wrap" aria-hidden="true">
+        <svg class="wheel" viewBox="0 0 500 500">
+          <defs>
+            <clipPath id="wheelClip"><circle cx="250" cy="250" r="245"/></clipPath>
+          </defs>
+          <circle cx="250" cy="250" r="248" fill="#17110A"/>
+          <circle cx="250" cy="250" r="245" fill="#F3B807"/>
+
+          <g class="wheel-ring">
+            <circle cx="250" cy="250" r="228" fill="none" stroke="#17110A" stroke-width="6" stroke-dasharray="1 7.2" stroke-linecap="round"/>
+            <circle cx="250" cy="250" r="210" fill="none" stroke="#17110A" stroke-width="2"/>
+            <circle cx="250" cy="250" r="145" fill="none" stroke="#17110A" stroke-width="2"/>
+            <g stroke="#17110A" stroke-width="2">
+              <line x1="287.5" y1="110.0" x2="304.3" y2="47.2"/>
+              <line x1="352.5" y1="147.5" x2="398.5" y2="101.5"/>
+              <line x1="390.0" y1="212.5" x2="452.8" y2="195.7"/>
+              <line x1="390.0" y1="287.5" x2="452.8" y2="304.3"/>
+              <line x1="352.5" y1="352.5" x2="398.5" y2="398.5"/>
+              <line x1="287.5" y1="390.0" x2="304.3" y2="452.8"/>
+              <line x1="212.5" y1="390.0" x2="195.7" y2="452.8"/>
+              <line x1="147.5" y1="352.5" x2="101.5" y2="398.5"/>
+              <line x1="110.0" y1="287.5" x2="47.2" y2="304.3"/>
+              <line x1="110.0" y1="212.5" x2="47.2" y2="195.7"/>
+              <line x1="147.5" y1="147.5" x2="101.5" y2="101.5"/>
+              <line x1="212.5" y1="110.0" x2="195.7" y2="47.2"/>
+            </g>
+            <g fill="#17110A" font-size="26" text-anchor="middle" dominant-baseline="central">
+              <text x="250" y="73">♈</text>
+              <text x="338.5" y="96.7">♉</text>
+              <text x="403.3" y="161.5">♊</text>
+              <text x="427" y="250">♋</text>
+              <text x="403.3" y="338.5">♌</text>
+              <text x="338.5" y="403.3">♍</text>
+              <text x="250" y="427">♎</text>
+              <text x="161.5" y="403.3">♏</text>
+              <text x="96.7" y="338.5">♐</text>
+              <text x="73" y="250">♑</text>
+              <text x="96.7" y="161.5">♒</text>
+              <text x="161.5" y="96.7">♓</text>
+            </g>
+          </g>
+
+          <circle cx="250" cy="250" r="138" fill="none" stroke="#17110A" stroke-width="1.5"/>
+          <circle cx="250" cy="250" r="132" fill="none" stroke="#17110A" stroke-width="1"/>
+          <text x="250" y="242" font-size="40" font-weight="700" fill="#17110A" text-anchor="middle" style="font-family:'Fraunces',serif;" letter-spacing="0.01em">ASTROLYA</text>
+          <text x="250" y="272" font-size="13" fill="#17110A" text-anchor="middle" letter-spacing="0.14em">✦ DISCOVER &amp; ALIGN ✦</text>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <section id="chart">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">What's in the chart</p>
+        <h2>One app, your whole reading.</h2>
+        <p>Six real ways to understand your chart — each grounded in your actual birth details, not a one-size horoscope.</p>
+      </div>
+      <div class="features">
+        <div class="feature">
+          <span class="mark">☾</span>
+          <h3>Live Astrologers</h3>
+          <p>Chat or call real specialists across Vedic, KP, Nadi, Numerology, Tarot and more — not a bot.</p>
+        </div>
+        <div class="feature">
+          <span class="mark">☉</span>
+          <h3>Kundli &amp; Daily Horoscope</h3>
+          <p>Your real birth chart, calculated from your exact date, time and place of birth.</p>
+        </div>
+        <div class="feature">
+          <span class="mark">✦</span>
+          <h3>Palm &amp; Face Reading</h3>
+          <p>AI-personalized readings from your own photo — analyzed entirely on your device, never uploaded.</p>
+        </div>
+        <div class="feature">
+          <span class="mark">♄</span>
+          <h3>Tarot &amp; Remedies</h3>
+          <p>Card readings and traditional remedies, tied back to what your chart actually shows.</p>
+        </div>
+        <div class="feature">
+          <span class="mark">✧</span>
+          <h3>AstroMall</h3>
+          <p>Genuine gemstones, rudraksha, yantras and pooja essentials from trusted spiritual retailers.</p>
+        </div>
+        <div class="feature">
+          <span class="mark">☿</span>
+          <h3>Written Reports</h3>
+          <p>Career, marriage, health, finance, kundli and baby-name reports — written from your real chart.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="trust">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">Trust &amp; Privacy</p>
+        <h2>Built to be trusted, not just used.</h2>
+      </div>
+      <div class="trust-grid">
+        <div class="trust-item">
+          <h3>Real astrologers, live</h3>
+          <p>Every chat and call session connects you with an actual specialist — never an automated stand-in pretending to be one.</p>
+        </div>
+        <div class="trust-item">
+          <h3>Your photos stay yours</h3>
+          <p>Palm and face readings are analyzed entirely on your own device. The photo is never uploaded anywhere.</p>
+        </div>
+        <div class="trust-item">
+          <h3>Secure payments</h3>
+          <p>Every purchase runs through Google Play Billing. Astrolya never sees or stores your card details.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="languages">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">Speak your language</p>
+        <h2>Astrology, read the way you actually think.</h2>
+      </div>
+      <div class="lang-row">
+        <span class="lang-chip"><span class="native">English</span></span>
+        <span class="lang-chip"><span class="native">हिंदी</span> Hindi</span>
+        <span class="lang-chip"><span class="native">தமிழ்</span> Tamil</span>
+        <span class="lang-chip"><span class="native">తెలుగు</span> Telugu</span>
+        <span class="lang-chip"><span class="native">ಕನ್ನಡ</span> Kannada</span>
+        <span class="lang-chip"><span class="native">മലയാളം</span> Malayalam</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="download" style="border-top: 1px solid var(--line);">
+    <div class="wrap final-cta">
+      <p class="eyebrow">Ready when you are</p>
+      <h2>Your chart is waiting.</h2>
+      <p>Astrolya is on its way to Google Play. Check back soon, or reach out if you'd like early access.</p>
+      <div class="cta-row">
+        <a class="btn" href="mailto:astrolyaofficial@gmail.com">Get in touch</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap foot-row">
+    <a class="wordmark" href="#top"><span class="glyph"></span>Astrolya</a>
+    <div class="foot-links">
+      <a href="https://sites.google.com/view/astrolya-privacy-policy/home">Privacy Policy</a>
+      <a href="https://sites.google.com/view/astrolya-terms-of-service/home">Terms of Service</a>
+      <a href="mailto:astrolyaofficial@gmail.com">astrolyaofficial@gmail.com</a>
+    </div>
+    <p class="foot-copy">© 2026 Astrolya. All rights reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>
