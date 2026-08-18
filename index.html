@@ -18,7 +18,7 @@
 <meta name="twitter:title" content="Astrolya - Astrology App | Talk to Astrologer, Free Kundli &amp; Horoscope">
 <meta name="twitter:description" content="Live Vedic astrologers, free Kundli &amp; horoscope matching, palm &amp; face reading, tarot and remedies - in six Indian languages.">
 
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='46' fill='%230A0812' stroke='%23C9A63C' stroke-width='4'/%3E%3Ccircle cx='50' cy='50' r='6' fill='%23C9A63C'/%3E%3C/svg%3E">
+<link rel="icon" type="image/png" href="logo-mark.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -154,11 +154,9 @@
   .wordmark { display: flex; align-items: center; gap: 10px; font-family: 'Fraunces', serif; font-size: 1.3rem; font-weight: 600; }
   .wordmark .glyph {
     width: 30px; height: 30px; border-radius: 50%;
-    border: 1.5px solid var(--gold);
-    display: flex; align-items: center; justify-content: center;
-    position: relative;
+    display: block;
+    flex-shrink: 0;
   }
-  .wordmark .glyph::after { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--gold); }
   nav.links { display: flex; gap: 32px; align-items: center; }
   nav.links a { font-size: 0.88rem; font-weight: 600; color: var(--ink-dim); transition: color 0.2s; }
   nav.links a:hover, nav.links a:focus-visible { color: var(--gold); }
@@ -278,7 +276,7 @@
 
 <header class="nav">
   <div class="wrap nav-row">
-    <a class="wordmark" href="#top"><span class="glyph"></span>Astrolya</a>
+    <a class="wordmark" href="#top"><img class="glyph" src="logo-mark.png" alt="Astrolya" width="30" height="30">Astrolya</a>
     <nav class="links">
       <a href="#chart">Features</a>
       <a href="#trust">Trust &amp; Privacy</a>
@@ -483,7 +481,7 @@
 
 <footer>
   <div class="wrap foot-row">
-    <a class="wordmark" href="#top"><span class="glyph"></span>Astrolya</a>
+    <a class="wordmark" href="#top"><img class="glyph" src="logo-mark.png" alt="Astrolya" width="30" height="30">Astrolya</a>
     <div class="foot-links">
       <a href="https://sites.google.com/view/astrolya-privacy-policy/home">Privacy Policy</a>
       <a href="https://sites.google.com/view/astrolya-terms-of-service/home">Terms of Service</a>
