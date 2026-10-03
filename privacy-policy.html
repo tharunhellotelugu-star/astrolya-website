@@ -87,7 +87,7 @@
         <li><strong>Date of birth, time of birth, and place of birth</strong> — required to calculate your Vedic astrological birth chart (Kundli). This is the core data the app's astrology features are built on.</li>
         <li><strong>Gender</strong> — used to personalize predictions and reports.</li>
         <li><strong>Phone number or email address</strong> — collected during sign-up/login, verified via a one-time password (OTP) through Firebase Authentication, or via Google Sign-In.</li>
-        <li><strong>Photos of your palm or face</strong> — only if you choose to use the Palm Reading or Face Reading features. These photos are sent to our AI reading provider to generate your reading and are used solely for that purpose.</li>
+        <li><strong>Photos of your palm or face</strong> — only if you choose to use the Palm Reading or Face Reading features. These photos are analyzed entirely on your device and are never uploaded to our servers or any third party; only the resulting measurements are used to generate your reading.</li>
         <li><strong>Questions or messages you send</strong> to astrologers or the AI chat feature.</li>
       </ul>
 
@@ -107,7 +107,7 @@
       <ul>
         <li>Calculate your Vedic astrological birth chart and generate real, chart-based predictions, reports, and remedies.</li>
         <li>Provide live chat and call sessions with astrologers.</li>
-        <li>Analyze palm/face photos, if you use those features, to generate a reading.</li>
+        <li>Analyze palm/face photos on your device, if you use those features, and use the resulting measurements to generate a reading.</li>
         <li>Verify your identity via phone number/OTP or Google Sign-In.</li>
         <li>Process payments and maintain your wallet balance.</li>
         <li>Personalize content in your selected language.</li>
@@ -121,7 +121,7 @@
         <tr><th>Service</th><th>Purpose</th><th>Data involved</th></tr>
         <tr><td>Google Firebase (Authentication)</td><td>Phone number/OTP and Google Sign-In</td><td>Phone number, name, email address</td></tr>
         <tr><td>Google Play Billing / RevenueCat</td><td>Payment processing and purchase validation</td><td>Purchase records (not card details)</td></tr>
-        <tr><td>Groq / Gemini / OpenRouter</td><td>Generating AI-powered astrology readings, chat replies, report content, and palm/face readings</td><td>Your birth chart data, chat messages, and photos where applicable</td></tr>
+        <tr><td>Groq</td><td>Generating AI-powered astrology readings, chat replies, and report content</td><td>Your birth chart data and chat messages. Palm/face photos themselves are never sent - only the on-device measurements described in Section 4.</td></tr>
         <tr><td>Render (Node.js backend gateway)</td><td>Hosts the app's server-side logic</td><td>Requests are routed through this server; no data is sold or shared beyond what's needed to serve your request</td></tr>
         <tr><td>Google AdMob</td><td>Displays ads in the app</td><td>Advertising ID, used for ad delivery and measurement</td></tr>
         <tr><td>Firebase Cloud Messaging</td><td>Sends push notifications (purchase confirmations, wallet alerts, daily horoscope)</td><td>A device notification token; you can disable notifications in your device settings at any time</td></tr>
@@ -131,9 +131,10 @@
       <h2>4. Palm and Face Reading Photos</h2>
       <p>If you use the Palm Reading or Face Reading feature:</p>
       <ul>
-        <li>Your photo is sent securely to our AI reading provider to generate your reading.</li>
+        <li>Your photo is analyzed entirely on your device, using on-device machine learning. It is never uploaded to our servers or to any third party.</li>
+        <li>Only the resulting measurements and category summaries (not the photo itself) are sent to our AI provider (Groq) to generate your written reading.</li>
         <li>We do not use these photos for facial recognition, identity verification, or any purpose other than generating the reading you requested.</li>
-        <li>Your photo is not stored on our servers beyond what's needed to generate your reading, and is not shared for any purpose other than that.</li>
+        <li>Your photo never leaves your device, and is not stored on our servers, shared with anyone, or used for any other purpose.</li>
       </ul>
 
       <h2>5. Data Retention</h2>
@@ -174,7 +175,7 @@
       <a href="/privacy-policy.html">Privacy Policy</a>
       <a href="/terms-of-service.html">Terms of Service</a>
       <a href="/delete-account.html">Delete Account</a>
-      <a href="mailto:astrolyaofficial@gmail.com">astrolyaofficial@gmail.com</a>
+      <a href="mailto:support@astrolya.in">support@astrolya.in</a>
     </div>
     <p class="foot-copy">&copy; 2026 Astrolya. All rights reserved.</p>
   </div>
