@@ -1,0 +1,27 @@
+# Astrolya
+
+> Astrolya is a free Vedic astrology app connecting users with real, live astrologers for chat and call consultations, alongside free Kundli (birth chart) generation, daily horoscopes, on-device AI-personalized palm and face reading, tarot, and traditional remedies. Available in English, Hindi, Tamil, Telugu, Kannada and Malayalam.
+
+## About
+
+- [Homepage](https://astrolya.in/): Features, trust & privacy information, supported languages, and FAQ.
+- [Privacy Policy](https://astrolya.in/privacy-policy.html): What data Astrolya collects and how it's used, including that palm/face photos are analyzed on-device and never uploaded.
+- [Terms of Service](https://astrolya.in/terms-of-service.html)
+
+## Key facts
+
+- Live astrologers across Vedic Astrology, KP Astrology, Nadi Astrology, Numerology, Tarot, Psychic Reading, Vastu Shastra, Face Reading & Palmistry, and Life Coaching.
+- Free Kundli (birth chart) generation from exact birth date, time and place.
+- Palm and face reading photos are analyzed entirely on-device; the photo itself is never uploaded to any server - only derived measurements are used to generate the reading.
+- Kundli matching (Guna Milan / Ashtakoot Milan) for marriage compatibility, with full astrologer interpretation beyond the raw score.
+- Payments are processed through Google Play Billing; Astrolya never sees card details.
+- Available in 6 languages: English, Hindi, Tamil, Telugu, Kannada, Malayalam.
+
+## Blog (astrology guides)
+
+- [Free Kundli Matching Online: How Guna Milan Actually Works](https://astrolya.in/blog/free-kundli-matching-guna-milan.html)
+- [What Is Manglik Dosha? Real Causes, Remedies, and Compatibility](https://astrolya.in/blog/manglik-dosha-remedies.html)
+- [Moon Sign vs Sun Sign: Why Your Real Horoscope Depends on Both](https://astrolya.in/blog/moon-sign-vs-sun-sign.html)
+- [Palm Reading Online: Can an App Really Read Your Palm Accurately?](https://astrolya.in/blog/palm-reading-online-app.html)
+- [When Will I Get Married? What Astrology Really Looks At](https://astrolya.in/blog/when-will-i-get-married-astrology.html)
+- [Career Astrology: How Your Birth Chart Predicts Job Change](https://astrolya.in/blog/career-astrology-job-change.html)
