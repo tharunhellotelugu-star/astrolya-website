@@ -1,0 +1,38 @@
+name: Refresh e-puja catalogue
+
+# Rebuilds epuja/catalog.json from Vedamandir's public sitemap every day, so the Astrolya app
+# (which reads https://astrolya.in/epuja/catalog.json) always shows currently bookable pujas.
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 06:00 IST daily
+  workflow_dispatch: {}    # "Run workflow" button for a manual refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epuja-catalog
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build catalogue
+        run: python -I scripts/build_epuja_catalog.py epuja/catalog.json
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- epuja/catalog.json; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898783+github-actions[bot]@users.noreply.github.com"
+          git add epuja/catalog.json
+          git commit -m "Refresh e-puja catalogue ($(date -u +%F))"
+          git push
