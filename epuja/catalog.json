@@ -1,0 +1,602 @@
+{
+ "version": 1,
+ "updated": "2026-11-20",
+ "validUntil": "2026-11-30",
+ "pujas": [
+  {
+   "key": "shani_jaap_1008",
+   "tags": [
+    "shani"
+   ],
+   "date": "2026-11-28",
+   "v": {
+    "en": {
+     "id": 1290,
+     "t": "23,000 Shani Mool Mantra Jaap, Shani Til Tailabhishek and 1008 Sankat Mochan Hanuman Ashtak Path"
+    },
+    "hi": {
+     "id": 1289,
+     "t": "23,000 शनि मूल मंत्र जाप, शनि तिल तेलाभिषेक एवं 1008 संकटमोचन हनुमान अष्टक पाठ"
+    }
+   }
+  },
+  {
+   "key": "shani_jaap",
+   "tags": [
+    "shani"
+   ],
+   "date": "2026-11-21",
+   "v": {
+    "en": {
+     "id": 1249,
+     "t": "23,000 Shani Mool Mantra Jaap, Shani Til Tailabhishek and Sankat Mochan Hanuman Ashtak Path"
+    },
+    "hi": {
+     "id": 1248,
+     "t": "23,000 शनि मूल मंत्र जाप, शनि तिल तेलाभिषेक एवं संकटमोचन हनुमान अष्टक पाठ"
+    }
+   }
+  },
+  {
+   "key": "shani_sade_sati_28",
+   "tags": [
+    "shani"
+   ],
+   "date": "2026-11-28",
+   "v": {
+    "en": {
+     "id": 1288,
+     "t": "Shani Sade Sati, Dhaiya and Mahadasha Shanti Maha Puja and Shani Til-Tailabhishek"
+    },
+    "hi": {
+     "id": 1287,
+     "t": "शनि साढ़े साती, ढैय्या व महादशा शांति महापूजा एवं शनि तिल तैलाभिषेक"
+    }
+   }
+  },
+  {
+   "key": "shani_sade_sati_21",
+   "tags": [
+    "shani"
+   ],
+   "date": "2026-11-21",
+   "v": {
+    "en": {
+     "id": 1247,
+     "t": "Shani Sade Sati, Dhaiya and Mahadasha Shanti Maha Puja and Shani Til-Tailabhishek"
+    },
+    "hi": {
+     "id": 1246,
+     "t": "शनि साढ़े साती, ढैय्या व महादशा शांति महापूजा एवं शनि तिल तैलाभिषेक"
+    }
+   }
+  },
+  {
+   "key": "janam_dosh_khatu",
+   "tags": [
+    "karma"
+   ],
+   "date": "2026-11-24",
+   "v": {
+    "en": {
+     "id": 1447,
+     "t": "7 Janam Dosh Nivaran Khatu Shyam Seva and Paap Kshay Ganga Abhishek Mahanushthan"
+    },
+    "hi": {
+     "id": 1446,
+     "t": "7 जन्म दोष निवारण खाटू श्याम सेवा एवं पाप क्षय गंगा अभिषेक महानुष्ठान"
+    }
+   }
+  },
+  {
+   "key": "janam_dosh_vishnu",
+   "tags": [
+    "karma"
+   ],
+   "date": "2026-11-21",
+   "v": {
+    "en": {
+     "id": 1357,
+     "t": "7 Janam Dosh Nivaran, 11 Vishnu Sahasranama and Paap-Kshay Yagya Maha Anushthan"
+    },
+    "hi": {
+     "id": 1338,
+     "t": "7 जन्म दोष निवारण 11 विष्णु सहस्रनाम एवं पाप-क्षय यज्ञ महाअनुष्ठान"
+    }
+   }
+  },
+  {
+   "key": "tulsi_vivah",
+   "tags": [
+    "marriage",
+    "money"
+   ],
+   "date": "2026-11-21",
+   "v": {
+    "en": {
+     "id": 1340,
+     "t": "Akhand Saubhagya and Sarv-Samriddhi “Tulsi Vivah” Maha Anushthan"
+    },
+    "hi": {
+     "id": 1339,
+     "t": "अखंड सौभाग्य एवं सर्व-समृद्धि 'तुलसी विवाह' महाअनुष्ठान"
+    }
+   }
+  },
+  {
+   "key": "bhu_varaha",
+   "tags": [
+    "property"
+   ],
+   "date": "2026-11-20",
+   "v": {
+    "en": {
+     "id": 1368,
+     "t": "Bhu Varaha Homam for Removing Land-Related and House Construction Obstacles"
+    },
+    "kn": {
+     "id": 403,
+     "t": "ಭೂಮಿ-ಆಸ್ತಿಗಾಗಿ ಶ್ರೀ ಭೂವರಾಹ ಸ್ವಾಮಿ ಹೋಮ"
+    },
+    "ml": {
+     "id": 1481,
+     "t": "ശ്രീ ഭൂവരാഹ സ്വാമി ഹോമം"
+    }
+   }
+  },
+  {
+   "key": "karza_mukti",
+   "tags": [
+    "money"
+   ],
+   "date": "2026-11-20",
+   "v": {
+    "en": {
+     "id": 1358,
+     "t": "Dev Uthani Ekadashi Mahamuhurat: Sanwaliya Seth Karza-Mukti Pujan and Kanakdhara Maha-Havan"
+    },
+    "hi": {
+     "id": 1348,
+     "t": "देवउठनी एकादशी महामुहूर्त: सांवलिया सेठ कर्ज-मुक्ति पूजन एवं कनकधारा महा-हवन"
+    }
+   }
+  },
+  {
+   "key": "sarv_kasht_nivaran",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "en": {
+     "id": 1520,
+     "t": "Kaal Bhairav, Maa Baglamukhi and Sankat Mochan Hanuman Sarv Kasht Nivaran Puja and Yagya"
+    },
+    "hi": {
+     "id": 1503,
+     "t": "काल भैरव, मां बगलामुखी एवं संकट मोचन हनुमान सर्व कष्ट निवारण पूजा एवं यज्ञ"
+    }
+   }
+  },
+  {
+   "key": "dik_raksha",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-11-24",
+   "v": {
+    "en": {
+     "id": 1440,
+     "t": "Kartik Purnima 10 Dik Raksha Hanuman Vishnu Suraksha Mahayagya"
+    },
+    "hi": {
+     "id": 1439,
+     "t": "कार्तिक पूर्णिमा 10 दिक् रक्षा हनुमान विष्णु सुरक्षा महायज्ञ"
+    }
+   }
+  },
+  {
+   "key": "aishwarya_prapti",
+   "tags": [
+    "money"
+   ],
+   "date": "2026-11-24",
+   "v": {
+    "en": {
+     "id": 1326,
+     "t": "Kartik Purnima Aishwarya-Prapti Mahayagya and 108 Ganga Deep Daan"
+    },
+    "hi": {
+     "id": 1325,
+     "t": "कार्तिक पूर्णिमा पंचदेव ऐश्वर्य-प्राप्ति महायज्ञ एवं 108 गंगा दीप दान"
+    }
+   }
+  },
+  {
+   "key": "kartika_shivotsava",
+   "tags": [
+    "shiva"
+   ],
+   "date": "2026-11-30",
+   "v": {
+    "en": {
+     "id": 1411,
+     "t": "Kartika Maha Shivotsava – 9 Days, 9 Divine Shiva Pujas & Abhishekams"
+    },
+    "kn": {
+     "id": 1352,
+     "t": "ಕಾರ್ತಿಕ ಮಹಾ ಶಿವೋತ್ಸವ; 9 ದಿನಗಳು, 9 ವಿಶೇಷ ಶಿವ ಪೂಜೆಗಳು"
+    }
+   }
+  },
+  {
+   "key": "baglamukhi_shatru",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "en": {
+     "id": 1502,
+     "t": "Maa Baglamukhi-Pratyangira-Kaal Bhairav Kavach Path and Shatru Buddhi Vinashini 21 Kg Red Chilli Havan"
+    },
+    "hi": {
+     "id": 1501,
+     "t": "मां बगलामुखी-प्रत्यंगिरा-काल भैरव कवच पाठ एवं शत्रु बुद्धि विनाशिनी 21 किलो लाल मिर्च हवन"
+    }
+   }
+  },
+  {
+   "key": "kamakhya_kavach",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-11-24",
+   "v": {
+    "en": {
+     "id": 1276,
+     "t": "Maa Kamakhya Siddh Kavach Path and Tantrokt Shatru Sanhar Havan"
+    },
+    "hi": {
+     "id": 1275,
+     "t": "मां कामाख्या सिद्ध कवच पाठ एवं तांत्रोक्त शत्रु संहार हवन"
+    }
+   }
+  },
+  {
+   "key": "navagraha_homam",
+   "tags": [
+    "navagraha"
+   ],
+   "date": "2026-11-27",
+   "v": {
+    "en": {
+     "id": 1333,
+     "t": "Maha Navagraha Parihara Homam"
+    },
+    "ta": {
+     "id": 1216,
+     "t": "மகா நவகிரக பரிகார ஹோமம்"
+    },
+    "ml": {
+     "id": 1475,
+     "t": "മഹാ നവഗ്രഹ പരിഹാര ഹോമം"
+    }
+   }
+  },
+  {
+   "key": "rudra_ghanapatha",
+   "tags": [
+    "shiva",
+    "health"
+   ],
+   "date": "2026-11-24",
+   "v": {
+    "en": {
+     "id": 1443,
+     "t": "Maha Rudra Ghanapaatha Along with Bilvarchana, Tulasi & Bhasmarchana"
+    },
+    "kn": {
+     "id": 1438,
+     "t": "ಮಹಾ ರುದ್ರ ಘನಪಾಠ ಸಹಿತ ಅಖಂಡ ಬಿಲ್ವಾರ್ಚನೆ, ತುಳಸಿ & ಭಸ್ಮಾರ್ಚನೆ ಪೂಜೆ"
+    }
+   }
+  },
+  {
+   "key": "shiva_rudra_homam",
+   "tags": [
+    "shiva"
+   ],
+   "date": "2026-11-24",
+   "v": {
+    "en": {
+     "id": 1316,
+     "t": "Maha Shiva Rudra Homam (Karthigai Pournami, Deepam Special Homam)"
+    },
+    "ta": {
+     "id": 1191,
+     "t": "மகா சிவ ருத்ர ஹோமம் (12 ஜோதிர்லிங்க & அஷ்ட சக்தி பீட க்ஷேத்ரத்தில்)"
+    },
+    "ml": {
+     "id": 1468,
+     "t": "മഹാ ശിവ രുദ്ര ഹോമം"
+    }
+   }
+  },
+  {
+   "key": "rahu_jaap",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1514,
+     "t": "Rahu Mahagochar Special: 18,000 Rahu Mool Mantra Jaap and Dashansh Havan (Sampoorna Rahu Shanti Anushthan)"
+    },
+    "hi": {
+     "id": 1513,
+     "t": "राहु महागोचर विशेष: 18,000 राहु मूल मंत्र जाप एवं दशांश हवन (संपूर्ण राहु शांति अनुष्ठान)"
+    }
+   }
+  },
+  {
+   "key": "rahu_ketu_transit",
+   "tags": [
+    "rahu_ketu",
+    "navagraha"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1518,
+     "t": "Rahu-Ketu Grand Transit Special: Rahu-Ketu Peace Puja & Shiv Rudrabhishek (For All 12 Zodiac Signs)"
+    },
+    "hi": {
+     "id": 1517,
+     "t": "राहु-केतु महागोचर विशेष: राहु-केतु पीड़ा शांति पूजा एवं शिव रुद्राभिषेक (सभी 12 राशियों के लिए)"
+    },
+    "ta": {
+     "id": 1479,
+     "t": "மகா ராகு-கேது பெயர்ச்சி சிறப்பு ஹோமம் 2026"
+    },
+    "te": {
+     "id": 1483,
+     "t": "కాలసర్ప దోష నివారణకు.. రాహుకేతు గ్రహశాంతి హోమం"
+    }
+   }
+  },
+  {
+   "key": "rudrabhishek_kalyanam",
+   "tags": [
+    "marriage",
+    "shiva"
+   ],
+   "date": "2026-11-24",
+   "v": {
+    "en": {
+     "id": 1515,
+     "t": "Rudrabhishekam, Maha Rudra Homam & Shiva Parvati Kalyanam"
+    },
+    "te": {
+     "id": 1349,
+     "t": "రుద్రాభిషేకం, మహారుద్ర హోమం మరియు శివపార్వతుల కళ్యాణం"
+    },
+    "kn": {
+     "id": 1442,
+     "t": "1116 ಪಾರ್ಥಿವ ಶಿವಲಿಂಗಗಳಿಗೆ ಅಭಿಷೇಕ... ರುದ್ರ ಹೋಮ.. ಶಿವಪಾರ್ವತಿಯರ ದಿವ್ಯ ಕಲ್ಯಾಣ"
+    }
+   }
+  },
+  {
+   "key": "vishwaroopa",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-11-29",
+   "v": {
+    "en": {
+     "id": 1467,
+     "t": "Vishwaroopa Vishnu Maya Maha Homam"
+    },
+    "ta": {
+     "id": 1466,
+     "t": "விஸ்வரூப விஷ்ணு மாயா மகா ஹோமம்"
+    }
+   }
+  },
+  {
+   "key": "shmashan_kali",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-11-21",
+   "v": {
+    "en": {
+     "id": 1444,
+     "t": "Maa Shmashan Kali Sarva Manokamana Siddhi Maha Puja"
+    }
+   }
+  },
+  {
+   "key": "kalabhairava",
+   "tags": [
+    "protection"
+   ],
+   "date": null,
+   "v": {
+    "te": {
+     "id": 1485,
+     "t": "కాలభైరవ కూష్మాండ దీపపూజ మరియు అష్టభైరవ ఆపదుద్ధారణ రక్షా హోమం"
+    },
+    "ta": {
+     "id": 1484,
+     "t": "மகா கால பைரவர் ஹோமம் (கால பைரவர் ஜெயந்தி சிறப்பு வழிபாடு)"
+    }
+   }
+  },
+  {
+   "key": "runa_vimochana",
+   "tags": [
+    "money",
+    "obstacles"
+   ],
+   "date": null,
+   "v": {
+    "te": {
+     "id": 1366,
+     "t": "రుణ విముక్తి, ధనస్థిరత్వం కోసం రుణ విమోచన శక్తిగణపతి హోమం"
+    },
+    "ml": {
+     "id": 1486,
+     "t": "ഋണ വിമോചന ശക്തി ഗണപതി ഹോമം"
+    }
+   }
+  },
+  {
+   "key": "arunachala_rudrabhishekam",
+   "tags": [
+    "shiva"
+   ],
+   "date": null,
+   "v": {
+    "te": {
+     "id": 1215,
+     "t": "అరుణాచల క్షేత్రంలో ఇక్షురస రుద్రాభిషేకం"
+    }
+   }
+  },
+  {
+   "key": "ujjain_bhasmabhishekam",
+   "tags": [
+    "shiva",
+    "health"
+   ],
+   "date": null,
+   "v": {
+    "te": {
+     "id": 1233,
+     "t": "ఉజ్జయినిలో స్పటిక లింగానికి భస్మాభిషేకం మరియు లక్ష బిల్వార్చన"
+    }
+   }
+  },
+  {
+   "key": "rameswaram_aghora",
+   "tags": [
+    "protection",
+    "shiva"
+   ],
+   "date": null,
+   "v": {
+    "te": {
+     "id": 1478,
+     "t": "రామేశ్వరంలో పార్థివ శివలింగాలకు రుద్రాభిషేకం మరియు అఘోర రుద్ర పాశుపత హోమం"
+    }
+   }
+  },
+  {
+   "key": "tulasi_damodara",
+   "tags": [
+    "marriage"
+   ],
+   "date": null,
+   "v": {
+    "te": {
+     "id": 1413,
+     "t": "వివాహ యోగం కోసం తిరుపతి క్షేత్రంలో తులసీ దామోదర కళ్యాణం"
+    }
+   }
+  },
+  {
+   "key": "ilaneer_abhishekam",
+   "tags": [
+    "shiva"
+   ],
+   "date": null,
+   "v": {
+    "ta": {
+     "id": 1166,
+     "t": "இளநீர் அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை"
+    }
+   }
+  },
+  {
+   "key": "karumbu_abhishekam",
+   "tags": [
+    "shiva"
+   ],
+   "date": null,
+   "v": {
+    "ta": {
+     "id": 1178,
+     "t": "கரும்புச்சாறு அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை"
+    }
+   }
+  },
+  {
+   "key": "panchamirtha_abhishekam",
+   "tags": [
+    "shiva"
+   ],
+   "date": null,
+   "v": {
+    "ta": {
+     "id": 1152,
+     "t": "பஞ்சாமிர்த அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை"
+    }
+   }
+  },
+  {
+   "key": "panneer_abhishekam",
+   "tags": [
+    "shiva"
+   ],
+   "date": null,
+   "v": {
+    "ta": {
+     "id": 1156,
+     "t": "பன்னீர் அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை"
+    }
+   }
+  },
+  {
+   "key": "ayushya_homam",
+   "tags": [
+    "health"
+   ],
+   "date": null,
+   "v": {
+    "ta": {
+     "id": 1020,
+     "t": "மகா ஆயுஷ்ய ஹோமம் (ஒரு குடும்பத்திற்கு மட்டும் செய்யப்படும் பிரத்யேக யாகம்)"
+    }
+   }
+  },
+  {
+   "key": "kartika_mondays",
+   "tags": [
+    "shiva"
+   ],
+   "date": null,
+   "v": {
+    "kn": {
+     "id": 1462,
+     "t": "ಕಾರ್ತಿಕ ಮಾಸದ 3 ಸೋಮವಾರಗಳು, 3 ಮಹಾ ಶಿವಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶೇಷ ಪೂಜೆ"
+    }
+   }
+  },
+  {
+   "key": "sahasra_modaka",
+   "tags": [
+    "obstacles"
+   ],
+   "date": null,
+   "v": {
+    "kn": {
+     "id": 1441,
+     "t": "ಸಹಸ್ರ ಮೋದಕ ಗಣಪತಿ ಹೋಮ"
+    }
+   }
+  }
+ ]
+}
