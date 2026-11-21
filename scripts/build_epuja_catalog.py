@@ -8,6 +8,7 @@ Safety: if fewer than MIN_PUJAS upcoming pujas are found (site change, outage), 
 catalogue is left untouched and the script exits non-zero so the failed run shows up in Actions.
 """
 import datetime as dt
+import html as htmllib
 import json
 import re
 import sys
@@ -84,7 +85,7 @@ def parse_title(html: str):
     m = re.search(r"<title>([^<]+)</title>", html)
     if not m:
         return None
-    t = re.sub(r"\s+", " ", m.group(1)).strip()
+    t = re.sub(r"\s+", " ", htmllib.unescape(m.group(1))).strip()
     return t or None
 
 

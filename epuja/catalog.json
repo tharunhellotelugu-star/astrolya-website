@@ -1,47 +1,8 @@
 {
  "version": 1,
- "updated": "2026-11-20",
- "validUntil": "2026-11-20",
+ "updated": "2026-11-21",
+ "validUntil": "2026-11-21",
  "pujas": [
-  {
-   "key": "en_1358",
-   "tags": [
-    "money"
-   ],
-   "date": "2026-11-20",
-   "v": {
-    "en": {
-     "id": 1358,
-     "t": "Dev Uthani Ekadashi Mahamuhurat: Sanwaliya Seth Karza-Mukti Pujan and Kanakdhara Maha-Havan"
-    }
-   }
-  },
-  {
-   "key": "hi_1348",
-   "tags": [
-    "money"
-   ],
-   "date": "2026-11-20",
-   "v": {
-    "hi": {
-     "id": 1348,
-     "t": "देवउठनी एकादशी महामुहूर्त: सांवलिया सेठ कर्ज-मुक्ति पूजन एवं कनकधारा महा-हवन"
-    }
-   }
-  },
-  {
-   "key": "ta_1152",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-20",
-   "v": {
-    "ta": {
-     "id": 1152,
-     "t": "பஞ்சாமிர்த அபிஷேகம் &amp; வில்வ சிவலிங்க அர்ச்சனை"
-    }
-   }
-  },
   {
    "key": "en_1247",
    "tags": [
@@ -149,30 +110,6 @@
    }
   },
   {
-   "key": "ml_1481",
-   "tags": [
-    "property"
-   ],
-   "date": "2026-11-21",
-   "v": {
-    "ml": {
-     "id": 1481,
-     "t": "ശ്രീ ഭൂവരാഹ സ്വാമി ഹോമം"
-    }
-   }
-  },
-  {
-   "key": "ta_1020",
-   "tags": [],
-   "date": "2026-11-21",
-   "v": {
-    "ta": {
-     "id": 1020,
-     "t": "மகா ஆயுஷ்ய ஹோமம் (ஒரு குடும்பத்திற்கு மட்டும் செய்யப்படும் பிரத்யேக யாகம்)"
-    }
-   }
-  },
-  {
    "key": "ta_1156",
    "tags": [
     "shiva"
@@ -181,7 +118,7 @@
    "v": {
     "ta": {
      "id": 1156,
-     "t": "பன்னீர் அபிஷேகம் &amp; வில்வ சிவலிங்க அர்ச்சனை"
+     "t": "பன்னீர் அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை"
     }
    }
   },
@@ -199,6 +136,17 @@
    }
   },
   {
+   "key": "ta_1020",
+   "tags": [],
+   "date": "2026-11-22",
+   "v": {
+    "ta": {
+     "id": 1020,
+     "t": "மகா ஆயுஷ்ய ஹோமம் (ஒரு குடும்பத்திற்கு மட்டும் செய்யப்படும் பிரத்யேக யாகம்)"
+    }
+   }
+  },
+  {
    "key": "ta_1166",
    "tags": [
     "shiva"
@@ -207,7 +155,7 @@
    "v": {
     "ta": {
      "id": 1166,
-     "t": "இளநீர் அபிஷேகம் &amp; வில்வ சிவலிங்க அர்ச்சனை"
+     "t": "இளநீர் அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை"
     }
    }
   },
@@ -233,7 +181,7 @@
    "v": {
     "ta": {
      "id": 1178,
-     "t": "கரும்புச்சாறு அபிஷேகம் &amp; வில்வ சிவலிங்க அர்ச்சனை"
+     "t": "கரும்புச்சாறு அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை"
     }
    }
   },
@@ -312,7 +260,7 @@
    "v": {
     "en": {
      "id": 1443,
-     "t": "Maha Rudra Ghanapaatha Along with Bilvarchana, Tulasi &amp; Bhasmarchana"
+     "t": "Maha Rudra Ghanapaatha Along with Bilvarchana, Tulasi & Bhasmarchana"
     }
    }
   },
@@ -339,7 +287,7 @@
    "v": {
     "en": {
      "id": 1515,
-     "t": "Rudrabhishekam, Maha Rudra Homam &amp; Shiva Parvati Kalyanam"
+     "t": "Rudrabhishekam, Maha Rudra Homam & Shiva Parvati Kalyanam"
     }
    }
   },
@@ -405,7 +353,7 @@
    "v": {
     "kn": {
      "id": 1438,
-     "t": "ಮಹಾ ರುದ್ರ ಘನಪಾಠ ಸಹಿತ ಅಖಂಡ ಬಿಲ್ವಾರ್ಚನೆ, ತುಳಸಿ &amp; ಭಸ್ಮಾರ್ಚನೆ ಪೂಜೆ"
+     "t": "ಮಹಾ ರುದ್ರ ಘನಪಾಠ ಸಹಿತ ಅಖಂಡ ಬಿಲ್ವಾರ್ಚನೆ, ತುಳಸಿ & ಭಸ್ಮಾರ್ಚನೆ ಪೂಜೆ"
     }
    }
   },
@@ -445,7 +393,7 @@
    "v": {
     "ta": {
      "id": 1191,
-     "t": "மகா சிவ ருத்ர ஹோமம் (12 ஜோதிர்லிங்க &amp; அஷ்ட சக்தி பீட க்ஷேத்ரத்தில்)"
+     "t": "மகா சிவ ருத்ர ஹோமம் (12 ஜோதிர்லிங்க & அஷ்ட சக்தி பீட க்ஷேத்ரத்தில்)"
     }
    }
   },
@@ -570,6 +518,17 @@
    }
   },
   {
+   "key": "en_1532",
+   "tags": [],
+   "date": "2026-11-28",
+   "v": {
+    "en": {
+     "id": 1532,
+     "t": "Maa Chhinnamasta Siddhi Puja"
+    }
+   }
+  },
+  {
    "key": "hi_1287",
    "tags": [
     "shani"
@@ -627,7 +586,7 @@
    "v": {
     "en": {
      "id": 1411,
-     "t": "Kartika Maha Shivotsava – 9 Days, 9 Divine Shiva Pujas &amp; Abhishekams"
+     "t": "Kartika Maha Shivotsava – 9 Days, 9 Divine Shiva Pujas & Abhishekams"
     }
    }
   },
@@ -683,6 +642,59 @@
    }
   },
   {
+   "key": "en_1530",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "en": {
+     "id": 1530,
+     "t": "1,25,000 Kaalbhairav Mool Mantra Jaap by 21 Brahmins, Tantra-Yukt Mahayagya and Kaalbhairavashtakam Path"
+    }
+   }
+  },
+  {
+   "key": "en_1533",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "en": {
+     "id": 1533,
+     "t": "Bhairavashtami Mahamuhurat: 10 Mahavidya Shatru Vinashak Pujan and Kaal Bhairav Tantrokt Havan"
+    }
+   }
+  },
+  {
+   "key": "en_1536",
+   "tags": [
+    "protection",
+    "karma"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "en": {
+     "id": 1536,
+     "t": "11 Kaalbhairavashtakam Path and Paap Kshay Mahayagya for the Paap Kshay of 7 Lifetimes"
+    }
+   }
+  },
+  {
+   "key": "en_1538",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "en": {
+     "id": 1538,
+     "t": "Shri Ashta Bhairav Maharaksha Kavach, 1,25,000 Kaal Bhairav Mool Mantra Jaap and 21 Brahmin Mahayagya"
+    }
+   }
+  },
+  {
    "key": "hi_1501",
    "tags": [
     "protection"
@@ -706,6 +718,59 @@
     "hi": {
      "id": 1503,
      "t": "काल भैरव, मां बगलामुखी एवं संकट मोचन हनुमान सर्व कष्ट निवारण पूजा एवं यज्ञ"
+    }
+   }
+  },
+  {
+   "key": "hi_1529",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "hi": {
+     "id": 1529,
+     "t": "21 ब्राह्मणों द्वारा 1,25,000 कालभैरव मूल मंत्र जाप, तंत्रयुक्त महायज्ञ एवं कालभैरवाष्टकम् पाठ"
+    }
+   }
+  },
+  {
+   "key": "hi_1531",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "hi": {
+     "id": 1531,
+     "t": "भैरवाष्टमी महामुहूर्त: 10 महाविद्या शत्रु विनाशक पूजन एवं काल भैरव तंत्रोक्त हवन"
+    }
+   }
+  },
+  {
+   "key": "hi_1534",
+   "tags": [
+    "protection",
+    "karma"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "hi": {
+     "id": 1534,
+     "t": "7 जन्मों के पाप क्षय हेतु 11 कालभैरवाष्टकम् पाठ एवं पाप क्षय महायज्ञ"
+    }
+   }
+  },
+  {
+   "key": "hi_1537",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "hi": {
+     "id": 1537,
+     "t": "भैरव अष्टमी विशेष: श्री अष्ट भैरव महारक्षा कवच, 1,25,000 काल भैरव मूल मंत्र जाप एवं 21 ब्राह्मण महायज्ञ"
     }
    }
   },
@@ -736,6 +801,28 @@
    }
   },
   {
+   "key": "en_1541",
+   "tags": [],
+   "date": "2026-12-04",
+   "v": {
+    "en": {
+     "id": 1541,
+     "t": "Brihaspati Guru Grah Yagya, Vishnu Sahasranama and Banana Tree Puja"
+    }
+   }
+  },
+  {
+   "key": "hi_1540",
+   "tags": [],
+   "date": "2026-12-04",
+   "v": {
+    "hi": {
+     "id": 1540,
+     "t": "बृहस्पति गुरु ग्रह यज्ञ, विष्णु सहस्रनाम और केले के पेड़ की पूजा"
+    }
+   }
+  },
+  {
    "key": "en_1514",
    "tags": [
     "rahu_ketu"
@@ -758,7 +845,7 @@
    "v": {
     "en": {
      "id": 1518,
-     "t": "Rahu-Ketu Grand Transit Special: Rahu-Ketu Peace Puja &amp; Shiv Rudrabhishek (For All 12 Zodiac Signs)"
+     "t": "Rahu-Ketu Grand Transit Special: Rahu-Ketu Peace Puja & Shiv Rudrabhishek (For All 12 Zodiac Signs)"
     }
    }
   },
@@ -798,7 +885,7 @@
    "v": {
     "ta": {
      "id": 1479,
-     "t": "மகா ராகு-கேது பெயர்ச்சி சிறப்பு ஹோமம் 2026"
+     "t": "மகா ராகு-கேது பெயர்ச்சி சிறப்பு ஹோமம் 2026 & அபிஷேகம்"
     }
    }
   },
@@ -825,6 +912,32 @@
     "te": {
      "id": 1478,
      "t": "రామేశ్వరంలో పార్థివ శివలింగాలకు రుద్రాభిషేకం మరియు అఘోర రుద్ర పాశుపత హోమం"
+    }
+   }
+  },
+  {
+   "key": "ta_1548",
+   "tags": [
+    "karma"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "ta": {
+     "id": 1548,
+     "t": "கார்த்திகை அமாவாசை பித்ரு தில ஹோமம் & தர்ப்பணம்"
+    }
+   }
+  },
+  {
+   "key": "te_1539",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "te": {
+     "id": 1539,
+     "t": "ప్రతికూల శక్తుల నుంచి రక్షణ కోసం అథర్వణ భద్రకాళీ ప్రత్యంగిరా హోమం"
     }
    }
   }
