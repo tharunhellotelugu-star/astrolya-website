@@ -89,6 +89,19 @@ def parse_title(html: str):
     return t or None
 
 
+# Only Vedamandir's own image CDN is accepted; the app enforces the same prefix.
+IMAGE_PREFIX = "https://dckcb1jmzpjth.cloudfront.net/pooja/images/"
+
+
+def parse_image(html: str):
+    """The puja's main deity picture, from the page's og:image tag."""
+    m = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html)
+    if not m:
+        return None
+    url = htmllib.unescape(m.group(1)).strip()
+    return url if url.startswith(IMAGE_PREFIX) and re.fullmatch(r"[A-Za-z0-9:/._\-]+", url) else None
+
+
 def tags_for(title: str):
     t = " " + title.lower() + " "
     return [tag for tag, words in TAG_WORDS.items() if any(w in t for w in words)]
@@ -117,8 +130,12 @@ def main():
             continue
         if date < today:
             continue
+        variant = {"id": int(pid), "t": title}
+        img = parse_image(html)
+        if img:
+            variant["img"] = img
         pujas.append({"key": f"{lang}_{pid}", "tags": tags_for(title), "date": date.isoformat(),
-                      "v": {lang: {"id": int(pid), "t": title}}})
+                      "v": {lang: variant}})
         print(f"ok {lang} {pid} {date} {pujas[-1]['tags']}")
 
     if len(pujas) < MIN_PUJAS:
