@@ -1,125 +1,8 @@
 {
  "version": 1,
- "updated": "2026-11-21",
- "validUntil": "2026-11-21",
+ "updated": "2026-11-22",
+ "validUntil": "2026-11-22",
  "pujas": [
-  {
-   "key": "en_1247",
-   "tags": [
-    "shani"
-   ],
-   "date": "2026-11-21",
-   "v": {
-    "en": {
-     "id": 1247,
-     "t": "Shani Sade Sati, Dhaiya and Mahadasha Shanti Maha Puja and Shani Til-Tailabhishek"
-    }
-   }
-  },
-  {
-   "key": "en_1249",
-   "tags": [
-    "shani",
-    "obstacles"
-   ],
-   "date": "2026-11-21",
-   "v": {
-    "en": {
-     "id": 1249,
-     "t": "23,000 Shani Mool Mantra Jaap, Shani Til Tailabhishek and Sankat Mochan Hanuman Ashtak Path"
-    }
-   }
-  },
-  {
-   "key": "en_1340",
-   "tags": [
-    "money",
-    "marriage"
-   ],
-   "date": "2026-11-21",
-   "v": {
-    "en": {
-     "id": 1340,
-     "t": "Akhand Saubhagya and Sarv-Samriddhi “Tulsi Vivah” Maha Anushthan"
-    }
-   }
-  },
-  {
-   "key": "en_1444",
-   "tags": [],
-   "date": "2026-11-21",
-   "v": {
-    "en": {
-     "id": 1444,
-     "t": "**Maa Shmashan Kali Sarva Manokamana Siddhi Maha Puja**"
-    }
-   }
-  },
-  {
-   "key": "hi_1246",
-   "tags": [
-    "shani"
-   ],
-   "date": "2026-11-21",
-   "v": {
-    "hi": {
-     "id": 1246,
-     "t": "शनि साढ़े साती, ढैय्या व महादशा शांति महापूजा एवं शनि तिल तैलाभिषेक"
-    }
-   }
-  },
-  {
-   "key": "hi_1248",
-   "tags": [
-    "shani",
-    "obstacles"
-   ],
-   "date": "2026-11-21",
-   "v": {
-    "hi": {
-     "id": 1248,
-     "t": "23,000 शनि मूल मंत्र जाप, शनि तिल तेलाभिषेक एवं संकटमोचन हनुमान अष्टक पाठ"
-    }
-   }
-  },
-  {
-   "key": "hi_1339",
-   "tags": [
-    "money",
-    "marriage"
-   ],
-   "date": "2026-11-21",
-   "v": {
-    "hi": {
-     "id": 1339,
-     "t": "अखंड सौभाग्य एवं सर्व-समृद्धि 'तुलसी विवाह' महाअनुष्ठान"
-    }
-   }
-  },
-  {
-   "key": "ta_1156",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-21",
-   "v": {
-    "ta": {
-     "id": 1156,
-     "t": "பன்னீர் அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை"
-    }
-   }
-  },
-  {
-   "key": "ta_1020",
-   "tags": [],
-   "date": "2026-11-22",
-   "v": {
-    "ta": {
-     "id": 1020,
-     "t": "மகா ஆயுஷ்ய ஹோமம் (ஒரு குடும்பத்திற்கு மட்டும் செய்யப்படும் பிரத்யேக யாகம்)"
-    }
-   }
-  },
   {
    "key": "ta_1166",
    "tags": [
@@ -143,6 +26,17 @@
     "kn": {
      "id": 1462,
      "t": "ಕಾರ್ತಿಕ ಮಾಸದ 3 ಸೋಮವಾರಗಳು, 3 ಮಹಾ ಶಿವಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶೇಷ ಪೂಜೆ"
+    }
+   }
+  },
+  {
+   "key": "ta_1020",
+   "tags": [],
+   "date": "2026-11-23",
+   "v": {
+    "ta": {
+     "id": 1020,
+     "t": "மகா ஆயுஷ்ய ஹோமம் (ஒரு குடும்பத்திற்கு மட்டும் செய்யப்படும் பிரத்யேக யாகம்)"
     }
    }
   },
@@ -797,6 +691,17 @@
    }
   },
   {
+   "key": "en_1570",
+   "tags": [],
+   "date": "2026-12-04",
+   "v": {
+    "en": {
+     "id": 1570,
+     "t": "Special Shanti Maha Puja for Severe and Hidden Doshas in the Kundli"
+    }
+   }
+  },
+  {
    "key": "hi_1540",
    "tags": [],
    "date": "2026-12-04",
@@ -804,6 +709,30 @@
     "hi": {
      "id": 1540,
      "t": "बृहस्पति गुरु ग्रह यज्ञ, विष्णु सहस्रनाम और केले के पेड़ की पूजा"
+    }
+   }
+  },
+  {
+   "key": "hi_1569",
+   "tags": [],
+   "date": "2026-12-04",
+   "v": {
+    "hi": {
+     "id": 1569,
+     "t": "कुंडली के सबसे घातक और छिपे दोषों की विशेष शांति महापूजा"
+    }
+   }
+  },
+  {
+   "key": "en_1480",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1480,
+     "t": "Maha Rahu-Ketu Peyarchi Special Homam & Abhishekam (Thirunageswaram)"
     }
    }
   },
@@ -831,6 +760,43 @@
     "en": {
      "id": 1518,
      "t": "Rahu-Ketu Grand Transit Special: Rahu-Ketu Peace Puja & Shiv Rudrabhishek (For All 12 Zodiac Signs)"
+    }
+   }
+  },
+  {
+   "key": "en_1571",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1571,
+     "t": "Rahu Ketu Graha Shanti Homam for Relief from Kaal Sarp Dosha"
+    }
+   }
+  },
+  {
+   "key": "en_1574",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1574,
+     "t": "Maha Rahu-Ketu Peyarchi Twin-Shrine Special Homam & Abhishekam (Thirunageswaram & Sri Kalahasti)"
+    }
+   }
+  },
+  {
+   "key": "en_1576",
+   "tags": [],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1576,
+     "t": "Maha Graha Peyarchi Divya Homams (Special Worship Across the Sacred Shrines of Thirunageswaram, Sri Kalahasti, Thirunallar & Alangudi)"
     }
    }
   },
@@ -871,6 +837,43 @@
     "ta": {
      "id": 1479,
      "t": "மகா ராகு-கேது பெயர்ச்சி சிறப்பு ஹோமம் 2026 & அபிஷேகம்"
+    }
+   }
+  },
+  {
+   "key": "ta_1568",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "ta": {
+     "id": 1568,
+     "t": "மஹா ராகு-கேது பெயர்ச்சி சிறப்பு ஹோமம் & அபிஷேகம் (திருநாகேஸ்வரம்)"
+    }
+   }
+  },
+  {
+   "key": "ta_1573",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "ta": {
+     "id": 1573,
+     "t": "மஹா ராகு-கேது பெயர்ச்சி இரட்டைத் தல சிறப்பு ஹோமம் & அபிஷேகம் (திருநாகேஸ்வரம் & ஸ்ரீ காளஹஸ்தி)"
+    }
+   }
+  },
+  {
+   "key": "ta_1575",
+   "tags": [],
+   "date": "2026-12-05",
+   "v": {
+    "ta": {
+     "id": 1575,
+     "t": "மஹா கிரக பெயர்ச்சி திவ்ய ஹோமங்கள் (திருநாகேஸ்வரம், ஸ்ரீகாளஹஸ்தி, திருநாள்ளார், ஆலங்குடி புண்ணிய ஸ்தலங்களில் சிறப்பு வழிபாடு)"
     }
    }
   },
@@ -923,6 +926,30 @@
     "te": {
      "id": 1539,
      "t": "ప్రతికూల శక్తుల నుంచి రక్షణ కోసం అథర్వణ భద్రకాళీ ప్రత్యంగిరా హోమం"
+    }
+   }
+  },
+  {
+   "key": "en_1578",
+   "tags": [],
+   "date": "2026-12-11",
+   "v": {
+    "en": {
+     "id": 1578,
+     "t": "Sani Vakra Nivarthi Special Homam"
+    }
+   }
+  },
+  {
+   "key": "ta_1577",
+   "tags": [
+    "shani"
+   ],
+   "date": "2026-12-11",
+   "v": {
+    "ta": {
+     "id": 1577,
+     "t": "சனி வக்ர நிவர்த்தி சிறப்பு ஹோமம்"
     }
    }
   }
