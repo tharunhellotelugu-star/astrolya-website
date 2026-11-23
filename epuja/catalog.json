@@ -1,50 +1,8 @@
 {
  "version": 1,
- "updated": "2026-11-22",
- "validUntil": "2026-11-22",
+ "updated": "2026-11-23",
+ "validUntil": "2026-11-23",
  "pujas": [
-  {
-   "key": "kn_1462",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-23",
-   "v": {
-    "kn": {
-     "id": 1462,
-     "t": "ಕಾರ್ತಿಕ ಮಾಸದ 3 ಸೋಮವಾರಗಳು, 3 ಮಹಾ ಶಿವಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶೇಷ ಪೂಜೆ",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794812930522-923752.webp"
-    }
-   }
-  },
-  {
-   "key": "ta_1178",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-23",
-   "v": {
-    "ta": {
-     "id": 1178,
-     "t": "கரும்புச்சாறு அபிஷேகம் & வில்வ சிவலிங்க அர்ச்சனை",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1793164166365-359374.webp"
-    }
-   }
-  },
-  {
-   "key": "te_1215",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-23",
-   "v": {
-    "te": {
-     "id": 1215,
-     "t": "అరుణాచల క్షేత్రంలో ఇక్షురస రుద్రాభిషేకం",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1793326255912-760700.webp"
-    }
-   }
-  },
   {
    "key": "en_1440",
    "tags": [
@@ -86,20 +44,6 @@
      "id": 1515,
      "t": "Rudrabhishekam, Maha Rudra Homam & Shiva Parvati Kalyanam",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795089583195-386841.webp"
-    }
-   }
-  },
-  {
-   "key": "kn_1438",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-24",
-   "v": {
-    "kn": {
-     "id": 1438,
-     "t": "ಮಹಾ ರುದ್ರ ಘನಪಾಠ ಸಹಿತ ಅಖಂಡ ಬಿಲ್ವಾರ್ಚನೆ, ತುಳಸಿ & ಭಸ್ಮಾರ್ಚನೆ ಪೂಜೆ",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795159089780-182363.webp"
     }
    }
   },
@@ -531,6 +475,20 @@
    }
   },
   {
+   "key": "en_1581",
+   "tags": [
+    "money"
+   ],
+   "date": "2026-12-04",
+   "v": {
+    "en": {
+     "id": 1581,
+     "t": "Ekadashi Mahamuhurat: Sanwaliya Seth Karza-Mukti Pujan and Kanakdhara Maha-Havan",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795408519173-73438.webp"
+    }
+   }
+  },
+  {
    "key": "hi_1540",
    "tags": [],
    "date": "2026-12-04",
@@ -551,6 +509,20 @@
      "id": 1569,
      "t": "कुंडली के सबसे घातक और छिपे दोषों की विशेष शांति महापूजा",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795251608389-902564.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1580",
+   "tags": [
+    "money"
+   ],
+   "date": "2026-12-04",
+   "v": {
+    "hi": {
+     "id": 1580,
+     "t": "एकादशी महामुहूर्त: सांवलिया सेठ कर्ज-मुक्ति पूजन एवं कनकधारा महा-हवन",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795407860168-202809.webp"
     }
    }
   },
@@ -638,6 +610,66 @@
    }
   },
   {
+   "key": "en_1584",
+   "tags": [
+    "shani"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1584,
+     "t": "Shani Sade Sati, Dhaiya and Mahadasha Shanti Maha Puja and Shani Til-Tailabhishek",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795410702692-214131.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1588",
+   "tags": [
+    "rahu_ketu",
+    "health",
+    "shiva"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1588,
+     "t": "Singh, Makar and Vrishchik Rashi Special: Rahu Gochar Mahamrityunjay Rudrabhishek and Shanti Anushthan",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795412319359-84243.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1591",
+   "tags": [
+    "rahu_ketu",
+    "shiva"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1591,
+     "t": "Kaal Sarp Dosh Shanti Puja and Rahu-Ketu Shanti Rudrabhishek",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795415254382-858248.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1593",
+   "tags": [
+    "rahu_ketu",
+    "navagraha"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1593,
+     "t": "Rahu-Ketu Gochar Navgrah Shanti and Griha-Kalesh Nashak Mahayagya",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795418019144-44855.webp"
+    }
+   }
+  },
+  {
    "key": "hi_1513",
    "tags": [
     "rahu_ketu"
@@ -663,6 +695,66 @@
      "id": 1517,
      "t": "राहु-केतु महागोचर विशेष: राहु-केतु पीड़ा शांति पूजा एवं शिव रुद्राभिषेक (सभी 12 राशियों के लिए)",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795090935980-370632.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1582",
+   "tags": [
+    "shani"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "hi": {
+     "id": 1582,
+     "t": "शनि साढ़े साती, ढैय्या व महादशा शांति महापूजा एवं शनि तिल तैलाभिषेक",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795409551208-64699.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1586",
+   "tags": [
+    "rahu_ketu",
+    "health",
+    "shiva"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "hi": {
+     "id": 1586,
+     "t": "सिंह, मकर व वृश्चिक राशि विशेष: राहु गोचर महामृत्युंजय रुद्राभिषेक एवं शांति अनुष्ठान",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795411598955-294207.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1589",
+   "tags": [
+    "rahu_ketu",
+    "shiva"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "hi": {
+     "id": 1589,
+     "t": "कालसर्प दोष शांति पूजा एवं राहु-केतु शांति रुद्राभिषेक",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795414718699-360709.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1592",
+   "tags": [
+    "rahu_ketu",
+    "navagraha"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "hi": {
+     "id": 1592,
+     "t": "राहु-केतु गोचर नवग्रह शांति एवं ग्रह-कलेश नाशक महायज्ञ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795417103163-3504.webp"
     }
    }
   },
@@ -783,7 +875,7 @@
    "v": {
     "en": {
      "id": 1578,
-     "t": "Sani Vakra Nivarthi Special Homam",
+     "t": "Sani Vakra Nivarthi Special Homam & Abhishekam",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795271163575-818763.webp"
     }
    }
@@ -797,8 +889,32 @@
    "v": {
     "ta": {
      "id": 1577,
-     "t": "சனி வக்ர நிவர்த்தி சிறப்பு ஹோமம்",
+     "t": "சனி வக்ர நிவர்த்தி சிறப்பு ஹோமம் & அபிஷேகம்",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795270449689-68568.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1587",
+   "tags": [],
+   "date": "2026-12-13",
+   "v": {
+    "en": {
+     "id": 1587,
+     "t": "Guru Vakra Gathi Special Homam & Abhishekam",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795412004306-966146.webp"
+    }
+   }
+  },
+  {
+   "key": "ta_1585",
+   "tags": [],
+   "date": "2026-12-13",
+   "v": {
+    "ta": {
+     "id": 1585,
+     "t": "குரு வக்ர கதி சிறப்பு ஹோமம் & அபிஷேகம்",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795411153817-846364.webp"
     }
    }
   }
