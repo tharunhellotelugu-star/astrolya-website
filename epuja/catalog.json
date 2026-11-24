@@ -1,119 +1,17 @@
 {
  "version": 1,
- "updated": "2026-11-23",
- "validUntil": "2026-11-23",
+ "updated": "2026-11-24",
+ "validUntil": "2026-11-24",
  "pujas": [
-  {
-   "key": "en_1440",
-   "tags": [
-    "protection",
-    "obstacles"
-   ],
-   "date": "2026-11-24",
-   "v": {
-    "en": {
-     "id": 1440,
-     "t": "Kartik Purnima 10 Dik Raksha Hanuman Vishnu Suraksha Mahayagya",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794650143439-314909.webp"
-    }
-   }
-  },
-  {
-   "key": "en_1443",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-24",
-   "v": {
-    "en": {
-     "id": 1443,
-     "t": "Maha Rudra Ghanapaatha Along with Bilvarchana, Tulasi & Bhasmarchana",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794667115468-398881.webp"
-    }
-   }
-  },
-  {
-   "key": "en_1515",
-   "tags": [
-    "marriage",
-    "shiva"
-   ],
-   "date": "2026-11-24",
-   "v": {
-    "en": {
-     "id": 1515,
-     "t": "Rudrabhishekam, Maha Rudra Homam & Shiva Parvati Kalyanam",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795089583195-386841.webp"
-    }
-   }
-  },
-  {
-   "key": "kn_1442",
-   "tags": [
-    "marriage",
-    "shiva"
-   ],
-   "date": "2026-11-24",
-   "v": {
-    "kn": {
-     "id": 1442,
-     "t": "1116 ಪಾರ್ಥಿವ ಶಿವಲಿಂಗಗಳಿಗೆ ಅಭಿಷೇಕ... ರುದ್ರ ಹೋಮ.. ಶಿವಪಾರ್ವತಿಯರ ದಿವ್ಯ ಕಲ್ಯಾಣ",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794662959232-188702.webp"
-    }
-   }
-  },
-  {
-   "key": "ml_1468",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-24",
-   "v": {
-    "ml": {
-     "id": 1468,
-     "t": "മഹാ ശിവ രുദ്ര ഹോമം",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795161509848-462784.webp"
-    }
-   }
-  },
   {
    "key": "ta_1020",
    "tags": [],
-   "date": "2026-11-24",
+   "date": "2026-11-26",
    "v": {
     "ta": {
      "id": 1020,
      "t": "மகா ஆயுஷ்ய ஹோமம் (ஒரு குடும்பத்திற்கு மட்டும் செய்யப்படும் பிரத்யேக யாகம்)",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1792152574857-836253.webp"
-    }
-   }
-  },
-  {
-   "key": "ta_1191",
-   "tags": [
-    "shiva"
-   ],
-   "date": "2026-11-24",
-   "v": {
-    "ta": {
-     "id": 1191,
-     "t": "மகா சிவ ருத்ர ஹோமம் (12 ஜோதிர்லிங்க & அஷ்ட சக்தி பீட க்ஷேத்ரத்தில்)",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1793185110506-991091.webp"
-    }
-   }
-  },
-  {
-   "key": "te_1349",
-   "tags": [
-    "marriage",
-    "shiva"
-   ],
-   "date": "2026-11-24",
-   "v": {
-    "te": {
-     "id": 1349,
-     "t": "రుద్రాభిషేకం, మహారుద్ర హోమం మరియు శివపార్వతుల కళ్యాణం",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794828647625-646810.webp"
     }
    }
   },
@@ -128,6 +26,18 @@
      "id": 1441,
      "t": "ಸಹಸ್ರ ಮೋದಕ ಗಣಪತಿ ಹೋಮ",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794655975716-232495.webp"
+    }
+   }
+  },
+  {
+   "key": "kn_1636",
+   "tags": [],
+   "date": "2026-11-27",
+   "v": {
+    "kn": {
+     "id": 1636,
+     "t": "ಶ್ರೀ ಲಕ್ಷ್ಮಿ ನಾರಾಯಣ ಹೃದಯ ಹೋಮ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795505317191-113134.webp"
     }
    }
   },
@@ -183,8 +93,8 @@
    "v": {
     "te": {
      "id": 1366,
-     "t": "రుణ విముక్తి, ధనస్థిరత్వం కోసం రుణ విమోచన శక్తిగణపతి హోమం",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794309708575-482445.webp"
+     "t": "రుణ విముక్తి, ధనస్థిరత్వం కోసం రుణ విమోచన శక్తిగణపతి హోమం - మీ గోత్రనామాలతో!",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795498705786-373508.webp"
     }
    }
   },
@@ -201,6 +111,18 @@
    }
   },
   {
+   "key": "kn_1643",
+   "tags": [],
+   "date": "2026-11-28",
+   "v": {
+    "kn": {
+     "id": 1643,
+     "t": "ಶ್ರೀ ರಾಮ ತಾರಕ ಹೋಮ ಮತ್ತು ಆಂಜನೇಯ ಮೂಲ ಮಂತ್ರ ಹೋಮ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795515241940-554653.webp"
+    }
+   }
+  },
+  {
    "key": "kn_1552",
    "tags": [],
    "date": "2026-11-29",
@@ -213,6 +135,18 @@
    }
   },
   {
+   "key": "ml_1606",
+   "tags": [],
+   "date": "2026-11-29",
+   "v": {
+    "ml": {
+     "id": 1606,
+     "t": "വിശ്വരൂപ വിഷ്ണുമായ മഹാഹോമം",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795438198521-666034.webp"
+    }
+   }
+  },
+  {
    "key": "ta_1466",
    "tags": [],
    "date": "2026-11-29",
@@ -220,7 +154,21 @@
     "ta": {
      "id": 1466,
      "t": "விஸ்வரூப விஷ்ணு மாயா மகா ஹோமம்",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794833832655-847572.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795423491209-282896.webp"
+    }
+   }
+  },
+  {
+   "key": "te_1602",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-11-29",
+   "v": {
+    "te": {
+     "id": 1602,
+     "t": "ప్రతికూల శక్తుల నుంచి రక్షణ కల్పించే విశ్వరూప విష్ణుమాయా మహా హోమం - మీ గోత్రనామాలతో!",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795432244945-36050.webp"
     }
    }
   },
@@ -245,7 +193,7 @@
    "v": {
     "te": {
      "id": 1233,
-     "t": "ఉజ్జయినిలో స్పటిక లింగానికి భస్మాభిషేకం మరియు లక్ష బిల్వార్చన",
+     "t": "ఉజ్జయినిలో స్పటిక లింగానికి భస్మాభిషేకం మరియు లక్ష బిల్వార్చన - మీ గోత్రనామాలతో!",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794638579293-88320.webp"
     }
    }
@@ -445,7 +393,7 @@
    "v": {
     "te": {
      "id": 1485,
-     "t": "కాలభైరవ కూష్మాండ దీపపూజ మరియు అష్టభైరవ ఆపదుద్ధారణ రక్షా హోమం",
+     "t": "కాలభైరవ కూష్మాండ దీపపూజ మరియు అష్టభైరవ ఆపదుద్ధారణ రక్షా హోమం - మీ గోత్రనామాలతో!",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795149832279-725103.webp"
     }
    }
@@ -535,7 +483,7 @@
    "v": {
     "en": {
      "id": 1480,
-     "t": "Maha Rahu-Ketu Peyarchi Special Homam & Abhishekam (Thirunageswaram)",
+     "t": "Maha Rahu-Ketu Transit Special Homam & Abhishekam (Thirunageswaram)",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795251048005-11834.webp"
     }
    }
@@ -592,8 +540,8 @@
    "v": {
     "en": {
      "id": 1574,
-     "t": "Maha Rahu-Ketu Peyarchi Twin-Shrine Special Homam & Abhishekam (Thirunageswaram & Sri Kalahasti)",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795256411614-239852.webp"
+     "t": "Maha Rahu-Ketu Transit Twin-Shrine Special Homam & Abhishekam (Thirunageswaram & Sri Kalahasti)",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795500506249-479227.webp"
     }
    }
   },
@@ -604,8 +552,8 @@
    "v": {
     "en": {
      "id": 1576,
-     "t": "Maha Graha Peyarchi Divya Homams (Special Worship Across the Sacred Shrines of Thirunageswaram, Sri Kalahasti, Thirunallar & Alangudi)",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795269017373-404781.webp"
+     "t": "Maha Planetary Transit Divine Homams – 4 Sacred Kshetras",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795499657130-253156.webp"
     }
    }
   },
@@ -666,6 +614,35 @@
      "id": 1593,
      "t": "Rahu-Ketu Gochar Navgrah Shanti and Griha-Kalesh Nashak Mahayagya",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795418019144-44855.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1597",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1597,
+     "t": "Rahu Gochar Special: Shri Goga Ji Archana and Kaal Sarp Shanti Maha Puja",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795426894328-709806.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1599",
+   "tags": [
+    "shani",
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "en": {
+     "id": 1599,
+     "t": "23,000 Shani Mool Mantra Jaap and 18,000 Rahu Mool Mantra Jaap",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795429917301-23751.webp"
     }
    }
   },
@@ -759,6 +736,63 @@
    }
   },
   {
+   "key": "hi_1596",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "hi": {
+     "id": 1596,
+     "t": "राहु गोचर विशेष: श्री गोगा जी अर्चना एवं कालसर्प शांति महापूजा",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795425885145-821561.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1598",
+   "tags": [
+    "shani",
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "hi": {
+     "id": 1598,
+     "t": "23,000 शनि मूल मंत्र जाप एवं 18,000 राहु मूल मंत्र जाप",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795428881896-723448.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1600",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "hi": {
+     "id": 1600,
+     "t": "मां कामाख्या सिद्ध कवच पाठ एवं तांत्रोक्त शत्रु संहार हवन",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795430971883-633161.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1642",
+   "tags": [
+    "rahu_ketu"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "hi": {
+     "id": 1642,
+     "t": "राहु महागोचर विशेष: श्रीकालाहस्ती धाम कालसर्प दोष निवारण पूजा एवं शांति हवन",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795515136912-536654.webp"
+    }
+   }
+  },
+  {
    "key": "ta_1479",
    "tags": [
     "rahu_ketu"
@@ -796,7 +830,7 @@
     "ta": {
      "id": 1573,
      "t": "மஹா ராகு-கேது பெயர்ச்சி இரட்டைத் தல சிறப்பு ஹோமம் & அபிஷேகம் (திருநாகேஸ்வரம் & ஸ்ரீ காளஹஸ்தி)",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795254919166-432703.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795499302415-163872.webp"
     }
    }
   },
@@ -807,8 +841,8 @@
    "v": {
     "ta": {
      "id": 1575,
-     "t": "மஹா கிரக பெயர்ச்சி திவ்ய ஹோமங்கள் (திருநாகேஸ்வரம், ஸ்ரீகாளஹஸ்தி, திருநாள்ளார், ஆலங்குடி புண்ணிய ஸ்தலங்களில் சிறப்பு வழிபாடு)",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795268973277-864048.webp"
+     "t": "மஹா கிரக பெயர்ச்சி திவ்ய ஹோமங்கள் – 4 புண்ணிய ஸ்தலங்களில்",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795499330293-153581.webp"
     }
    }
   },
@@ -821,8 +855,53 @@
    "v": {
     "te": {
      "id": 1483,
-     "t": "కాలసర్ప దోష నివారణకు.. రాహుకేతు గ్రహశాంతి హోమం",
+     "t": "రాహుకాల ప్రత్యేక రాహుకేతు శాంతి హోమం - మీ గోత్రనామాలతో!",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794979147332-191150.webp"
+    }
+   }
+  },
+  {
+   "key": "te_1594",
+   "tags": [
+    "shani",
+    "shiva"
+   ],
+   "date": "2026-12-05",
+   "v": {
+    "te": {
+     "id": 1594,
+     "t": "8 కిలోల నువ్వులతో శని పాశుపత హోమం మరియు రుద్రాభిషేకం - మీ గోత్రనామాలతో!",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795422038545-23243.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1604",
+   "tags": [
+    "health",
+    "shiva"
+   ],
+   "date": "2026-12-07",
+   "v": {
+    "en": {
+     "id": 1604,
+     "t": "Omkareshwar Jyotirlinga Mahamrityunjay Rudrabhishek",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795435953267-755179.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1603",
+   "tags": [
+    "health",
+    "shiva"
+   ],
+   "date": "2026-12-07",
+   "v": {
+    "hi": {
+     "id": 1603,
+     "t": "ओंकारेश्वर ज्योतिर्लिंग महामृत्युंजय रुद्राभिषेक",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795435234879-338521.webp"
     }
    }
   },
@@ -835,8 +914,50 @@
    "v": {
     "te": {
      "id": 1478,
-     "t": "రామేశ్వరంలో పార్థివ శివలింగాలకు రుద్రాభిషేకం మరియు అఘోర రుద్ర పాశుపత హోమం",
+     "t": "రామేశ్వరంలో పార్థివ శివలింగాలకు రుద్రాభిషేకం మరియు అఘోర రుద్ర పాశుపత హోమం - మీ గోత్రనామాలతో!",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794917688956-799219.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1601",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "en": {
+     "id": 1601,
+     "t": "Maa Kamakhya Siddh Kavach Path and Tantrokt Shatru Sanhar Havan",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795431727578-274546.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1607",
+   "tags": [
+    "karma"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "en": {
+     "id": 1607,
+     "t": "Tirthraj Pushkar Pitru Shanti Puja and Til Tarpan",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795439352634-885594.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1605",
+   "tags": [
+    "karma"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "hi": {
+     "id": 1605,
+     "t": "तीर्थराज पुष्कर पितृ शांति पूजा एवं तिल तर्पण",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795437897652-270185.webp"
     }
    }
   },
@@ -863,7 +984,7 @@
    "v": {
     "te": {
      "id": 1539,
-     "t": "ప్రతికూల శక్తుల నుంచి రక్షణ కోసం అథర్వణ భద్రకాళీ ప్రత్యంగిరా హోమం",
+     "t": "ప్రతికూల శక్తుల నుంచి రక్షణ కోసం అథర్వణ భద్రకాళీ ప్రత్యంగిరా హోమం - మీ గోత్రనామాలతో!",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795177863317-813017.webp"
     }
    }
@@ -902,7 +1023,7 @@
     "en": {
      "id": 1587,
      "t": "Guru Vakra Gathi Special Homam & Abhishekam",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795412004306-966146.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795501736133-100409.webp"
     }
    }
   },
@@ -914,7 +1035,31 @@
     "ta": {
      "id": 1585,
      "t": "குரு வக்ர கதி சிறப்பு ஹோமம் & அபிஷேகம்",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795411153817-846364.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795501305706-507344.webp"
+    }
+   }
+  },
+  {
+   "key": "ta_1608",
+   "tags": [],
+   "date": "2026-12-14",
+   "v": {
+    "ta": {
+     "id": 1608,
+     "t": "சுயம்வர பார்வதி ஹோமம்",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795440817259-788978.webp"
+    }
+   }
+  },
+  {
+   "key": "ta_1634",
+   "tags": [],
+   "date": "2026-12-15",
+   "v": {
+    "ta": {
+     "id": 1634,
+     "t": "மஹா சத்ரு சம்ஹார ஹோமம்",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795501212830-615252.webp"
     }
    }
   }
