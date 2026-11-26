@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-25",
- "validUntil": "2026-11-25",
+ "updated": "2026-11-26",
+ "validUntil": "2026-11-26",
  "pujas": [
   {
    "key": "kn_1441",
@@ -46,18 +46,6 @@
    }
   },
   {
-   "key": "ta_1020",
-   "tags": [],
-   "date": "2026-11-27",
-   "v": {
-    "ta": {
-     "id": 1020,
-     "t": "மகா ஆயுஷ்ய ஹோமம் (ஒரு குடும்பத்திற்கு மட்டும் செய்யப்படும் பிரத்யேக யாகம்)",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1792152574857-836253.webp"
-    }
-   }
-  },
-  {
    "key": "ta_1216",
    "tags": [
     "navagraha"
@@ -95,6 +83,18 @@
      "id": 1532,
      "t": "Maa Chhinnamasta Siddhi Puja",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795170193847-232400.webp"
+    }
+   }
+  },
+  {
+   "key": "ta_1020",
+   "tags": [],
+   "date": "2026-11-28",
+   "v": {
+    "ta": {
+     "id": 1020,
+     "t": "மகா ஆயுஷ்ய ஹோமம் (ஒரு குடும்பத்திற்கு மட்டும் செய்யப்படும் பிரத்யேக யாகம்)",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1792152574857-836253.webp"
     }
    }
   },
@@ -163,6 +163,18 @@
    }
   },
   {
+   "key": "kn_1367",
+   "tags": [],
+   "date": "2026-11-30",
+   "v": {
+    "kn": {
+     "id": 1367,
+     "t": "ಉಜ್ಜಯಿನಿಯಲ್ಲಿ ಸ್ಫಟಿಕ ಲಿಂಗಕ್ಕೆ ಭಸ್ಮಾಭಿಷೇಕ ಮತ್ತು 1,00,000 ಬಿಲ್ವಾರ್ಚನೆ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1794311742490-619737.webp"
+    }
+   }
+  },
+  {
    "key": "te_1233",
    "tags": [],
    "date": "2026-11-30",
@@ -213,7 +225,7 @@
     "en": {
      "id": 1530,
      "t": "1,25,000 Kaalbhairav Mool Mantra Jaap by 21 Brahmins, Tantra-Yukt Mahayagya and Kaalbhairavashtakam Path",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795165224954-544733.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795674547831-251921.webp"
     }
    }
   },
@@ -299,7 +311,7 @@
     "hi": {
      "id": 1529,
      "t": "21 ब्राह्मणों द्वारा 1,25,000 कालभैरव मूल मंत्र जाप, तंत्रयुक्त महायज्ञ एवं कालभैरवाष्टकम् पाठ",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795164183821-454648.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795674509830-50439.webp"
     }
    }
   },
@@ -385,6 +397,32 @@
      "id": 1485,
      "t": "కాలభైరవ కూష్మాండ దీపపూజ మరియు అష్టభైరవ ఆపదుద్ధారణ రక్షా హోమం - మీ గోత్రనామాలతో!",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795589707834-958543.webp"
+    }
+   }
+  },
+  {
+   "key": "kn_1677",
+   "tags": [
+    "obstacles"
+   ],
+   "date": "2026-12-02",
+   "v": {
+    "kn": {
+     "id": 1677,
+     "t": "ವಿಘ್ನ ನಿವಾರಣ ಮಹಾಗಣಪತಿ ಅಥರ್ವಶೀರ್ಷ ಅಭಿಷೇಕ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795675497723-435070.webp"
+    }
+   }
+  },
+  {
+   "key": "kn_1678",
+   "tags": [],
+   "date": "2026-12-03",
+   "v": {
+    "kn": {
+     "id": 1678,
+     "t": "ಜ್ಞಾನ ಸಿದ್ಧಿ ದಕ್ಷಿಣಾಮೂರ್ತಿ ಅರ್ಚನೆ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795680301824-710091.webp"
     }
    }
   },
@@ -517,7 +555,7 @@
     "en": {
      "id": 1571,
      "t": "Rahu Ketu Graha Shanti Homam for Relief from Kaal Sarp Dosha",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795253434622-465450.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795610228976-67563.webp"
     }
    }
   },
@@ -1012,6 +1050,20 @@
    }
   },
   {
+   "key": "kn_1661",
+   "tags": [
+    "shiva"
+   ],
+   "date": "2026-12-07",
+   "v": {
+    "kn": {
+     "id": 1661,
+     "t": "ರಾಮೇಶ್ವರಂನಲ್ಲಿ ಪಾರ್ಥಿವ ಶಿವಲಿಂಗಗಳಿಗೆ ರುದ್ರಾಭಿಷೇಕ ಮತ್ತು ಅಘೋರ ರುದ್ರ ಪಾಶುಪತ ಹೋಮ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795600088006-188016.webp"
+    }
+   }
+  },
+  {
    "key": "te_1478",
    "tags": [
     "shiva"
@@ -1054,6 +1106,47 @@
    }
   },
   {
+   "key": "en_1664",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "en": {
+     "id": 1664,
+     "t": "Kamakhya Tirth Kshetra: 10 Mahavidya Shatru Vinashak Pujan and Tantrokt Havan",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795604961293-582167.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1674",
+   "tags": [],
+   "date": "2026-12-08",
+   "v": {
+    "en": {
+     "id": 1674,
+     "t": "Manglik Dosh Nivaran Maha Puja, Bhaat Puja and Shri Mangalnath Mahabhishek",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795670289026-945267.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1679",
+   "tags": [
+    "protection",
+    "obstacles"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "en": {
+     "id": 1679,
+     "t": "7,000 Mangal Grah Shanti Mantra Jaap and Hanuman Suraksha Maha-Havan",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795682602244-912440.webp"
+    }
+   }
+  },
+  {
    "key": "hi_1605",
    "tags": [
     "karma"
@@ -1068,6 +1161,61 @@
    }
   },
   {
+   "key": "hi_1662",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "hi": {
+     "id": 1662,
+     "t": "कामाख्या तीर्थ क्षेत्र: 10 महाविद्या शत्रु विनाशक पूजन एवं तंत्रोक्त हवन",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795600418603-483003.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1671",
+   "tags": [],
+   "date": "2026-12-08",
+   "v": {
+    "hi": {
+     "id": 1671,
+     "t": "मांगलिक दोष निवारण महापूजा, भात पूजा एवं श्री मंगलनाथ महाअभिषेक",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795669221650-146336.webp"
+    }
+   }
+  },
+  {
+   "key": "hi_1675",
+   "tags": [
+    "protection",
+    "obstacles"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "hi": {
+     "id": 1675,
+     "t": "भौमवती अमावस्या महामुहूर्त: 7,000 मंगल ग्रह शांति मंत्र जाप एवं हनुमान सुरक्षा महा-हवन",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795671609720-811147.webp"
+    }
+   }
+  },
+  {
+   "key": "kn_1663",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-08",
+   "v": {
+    "kn": {
+     "id": 1663,
+     "t": "ಪ್ರತಿಕೂಲ ಶಕ್ತಿಗಳಿಂದ ರಕ್ಷಣೆಗಾಗಿ ಅಥರ್ವಣ ಭದ್ರಕಾಳಿ ಪ್ರತ್ಯಂಗಿರಾ ಹೋಮ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795601666023-31232.webp"
+    }
+   }
+  },
+  {
    "key": "ta_1548",
    "tags": [
     "karma"
@@ -1076,7 +1224,7 @@
    "v": {
     "ta": {
      "id": 1548,
-     "t": "கார்த்திகை அமாவாசை பித்ரு தில ஹோமம் & தர்ப்பணம்",
+     "t": "கார்த்திகை அமாவாசை பித்ரு தில ஹோமம் & தர்ப்பணம் (புனித கோ-சேவை)",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795241483845-146996.webp"
     }
    }
@@ -1092,6 +1240,34 @@
      "id": 1539,
      "t": "ప్రతికూల శక్తుల నుంచి రక్షణ కోసం అథర్వణ భద్రకాళీ ప్రత్యంగిరా హోమం - మీ గోత్రనామాలతో!",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795177863317-813017.webp"
+    }
+   }
+  },
+  {
+   "key": "kn_1669",
+   "tags": [
+    "obstacles"
+   ],
+   "date": "2026-12-09",
+   "v": {
+    "kn": {
+     "id": 1669,
+     "t": "ಶುಭ ಸಂಕಲ್ಪ ಗಣಪತಿ ಹೋಮ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795611327432-717008.webp"
+    }
+   }
+  },
+  {
+   "key": "kn_1676",
+   "tags": [
+    "money"
+   ],
+   "date": "2026-12-10",
+   "v": {
+    "kn": {
+     "id": 1676,
+     "t": "ಐಶ್ವರ್ಯ ಮಹಾಲಕ್ಷ್ಮೀ ಕುಂಕುಮಾರ್ಚನೆ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795672564088-561199.webp"
     }
    }
   },
@@ -1160,6 +1336,18 @@
    }
   },
   {
+   "key": "te_1666",
+   "tags": [],
+   "date": "2026-12-13",
+   "v": {
+    "te": {
+     "id": 1666,
+     "t": "జ్ఞానం, ఐశ్వర్యం, అదృష్ట వృద్ధికి.. గురుగ్రహ శాంతి హోమం - మీ గోత్రనామాలతో!",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795606169084-644095.webp"
+    }
+   }
+  },
+  {
    "key": "ta_1608",
    "tags": [],
    "date": "2026-12-14",
@@ -1172,6 +1360,18 @@
    }
   },
   {
+   "key": "kn_1667",
+   "tags": [],
+   "date": "2026-12-15",
+   "v": {
+    "kn": {
+     "id": 1667,
+     "t": "ಸುಬ್ರಹ್ಮಣ್ಯ ಮಹಾ ಅಭಿಷೇಕ ಮತ್ತು ಸರ್ಪದೋಷ ನಿವಾರಣಾ ನಾಗ ಪೂಜೆ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795606600101-713888.webp"
+    }
+   }
+  },
+  {
    "key": "ta_1634",
    "tags": [],
    "date": "2026-12-15",
@@ -1180,6 +1380,18 @@
      "id": 1634,
      "t": "மஹா சத்ரு சம்ஹார ஹோமம்",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795501212830-615252.webp"
+    }
+   }
+  },
+  {
+   "key": "te_1665",
+   "tags": [],
+   "date": "2026-12-15",
+   "v": {
+    "te": {
+     "id": 1665,
+     "t": "వల్లీ దేవసేన సమేత సుబ్రహ్మణ్య కల్యాణం",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795605187117-419040.webp"
     }
    }
   },
@@ -1220,6 +1432,32 @@
      "id": 1652,
      "t": "சிவ ஆருத்ரா மகா மிருத்யுஞ்சய ஹோமம்",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795583641723-739529.webp"
+    }
+   }
+  },
+  {
+   "key": "ta_1668",
+   "tags": [
+    "obstacles"
+   ],
+   "date": "2026-12-27",
+   "v": {
+    "ta": {
+     "id": 1668,
+     "t": "கடன் தீர்க்கும் மகா கணபதி ஹோமம்",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795609503937-758557.webp"
+    }
+   }
+  },
+  {
+   "key": "ta_1670",
+   "tags": [],
+   "date": "2026-12-28",
+   "v": {
+    "ta": {
+     "id": 1670,
+     "t": "கிருஷ்ணபட்ச பஞ்சமி ஸ்ரீ மகா வாராஹி ஹோமம்",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795611544731-874454.webp"
     }
    }
   }
