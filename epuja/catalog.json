@@ -1,37 +1,8 @@
 {
  "version": 1,
- "updated": "2026-11-27",
- "validUntil": "2026-11-27",
+ "updated": "2026-11-28",
+ "validUntil": "2026-11-28",
  "pujas": [
-  {
-   "key": "ta_1216",
-   "tags": [
-    "navagraha"
-   ],
-   "date": "2026-11-27",
-   "v": {
-    "ta": {
-     "id": 1216,
-     "t": "மகா நவகிரக பரிகார ஹோமம்",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1793341455554-442547.webp"
-    }
-   }
-  },
-  {
-   "key": "te_1366",
-   "tags": [
-    "money",
-    "obstacles"
-   ],
-   "date": "2026-11-27",
-   "v": {
-    "te": {
-     "id": 1366,
-     "t": "రుణ విముక్తి, ధనస్థిరత్వం కోసం రుణ విమోచన శక్తిగణపతి హోమం - మీ గోత్రనామాలతో!",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795498705786-373508.webp"
-    }
-   }
-  },
   {
    "key": "en_1532",
    "tags": [],
@@ -215,6 +186,20 @@
      "id": 1538,
      "t": "Shri Ashta Bhairav Maharaksha Kavach, 1,25,000 Kaal Bhairav Mool Mantra Jaap and 21 Brahmin Mahayagya",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795174688630-587949.webp"
+    }
+   }
+  },
+  {
+   "key": "en_1703",
+   "tags": [
+    "protection"
+   ],
+   "date": "2026-12-01",
+   "v": {
+    "en": {
+     "id": 1703,
+     "t": "Maha Kala Bhairavar Homam (Kala Bhairavar Jayanthi Special Worship)",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795846747859-46558.webp"
     }
    }
   },
@@ -545,7 +530,7 @@
     "en": {
      "id": 1574,
      "t": "Maha Rahu-Ketu Transit Twin-Shrine Special Homam & Abhishekam (Thirunageswaram & Sri Kalahasti)",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795702059225-128282.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795851074362-218506.webp"
     }
    }
   },
@@ -892,7 +877,7 @@
     "ta": {
      "id": 1573,
      "t": "12 ராசிகளுக்குமான ராகு கேது பெயர்ச்சி சிறப்பு ஹோமங்கள் 2026",
-     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795701046873-132639.webp"
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795781207764-804268.webp"
     }
    }
   },
@@ -1298,6 +1283,20 @@
    }
   },
   {
+   "key": "kn_1697",
+   "tags": [
+    "shani"
+   ],
+   "date": "2026-12-11",
+   "v": {
+    "kn": {
+     "id": 1697,
+     "t": "ಶನಿ ತೈಲಾಭಿಷೇಕ ಮತ್ತು ಶನಿಗ್ರಹ ಶಾಂತಿ ಹೋಮ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795774313116-87663.webp"
+    }
+   }
+  },
+  {
    "key": "ta_1577",
    "tags": [
     "shani"
@@ -1376,6 +1375,20 @@
      "id": 1587,
      "t": "Guru Vakra Gathi Special Homam & Abhishekam",
      "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795501736133-100409.webp"
+    }
+   }
+  },
+  {
+   "key": "kn_1701",
+   "tags": [
+    "money"
+   ],
+   "date": "2026-12-13",
+   "v": {
+    "kn": {
+     "id": 1701,
+     "t": "ಆದಿತ್ಯ ಹೃದಯ ಸೂರ್ಯ ಆರಾಧನಾ ಹೋಮ",
+     "img": "https://dckcb1jmzpjth.cloudfront.net/pooja/images/temp/1795781555378-48737.webp"
     }
    }
   },
